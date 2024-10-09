@@ -1,0 +1,17 @@
+# Ігнорування віртуального середовища
+venv/
+
+# Ігнорування системних файлів
+.DS_Store
+.CFUserTextEncoding
+.cache/
+.config/
+.gitconfig
+.zsh_history
+.vscode/
+
+# Ігнорування особистих або непотрібних файлів
+../Library/
+../Downloads/
+../Desktop/
+../Documents/
