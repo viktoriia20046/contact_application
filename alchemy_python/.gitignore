@@ -15,3 +15,36 @@ venv/
 ../Downloads/
 ../Desktop/
 ../Documents/
+# Ігнорування системних файлів
+.DS_Store
+.Trash/
+.CFUserTextEncoding
+
+# Ігнорування налаштувань користувача
+.gitconfig
+.ssh/
+.viminfo
+.vscode/
+.python_history
+# Ігнорування системних файлів та конфігурацій
+.DS_Store
+*.log
+*.swp
+*.swo
+*.bak
+*.tmp
+*.save
+
+# Ігнорування прихованих налаштувань IDE та редакторів
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# Ігнорування налаштувань користувача
+*.zsh*
+*.bash*
+*.history
+.cache/
+.config/
+.ssh/
