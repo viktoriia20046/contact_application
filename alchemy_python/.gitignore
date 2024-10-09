@@ -1,5 +1,5 @@
 .DS_Store
-.Trash
+.Trash/
 .cache/
 .config/
 .docker/
