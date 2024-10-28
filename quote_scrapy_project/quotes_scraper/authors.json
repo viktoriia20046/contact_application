@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Albert Einstein",
+        "born": "March 14, 1879",
+        "bio": "Theoretical physicist who developed the theory of relativity."
+    },
+    {
+        "name": "Buddha",
+        "born": "563 BCE",
+        "bio": "Spiritual teacher and founder of Buddhism."
+    }
+]
