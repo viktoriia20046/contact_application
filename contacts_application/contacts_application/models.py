@@ -9,3 +9,6 @@ class Contact(Base):
     email = Column(String, unique=True, index=True)
     phone = Column(String, unique=True, index=True)
     is_active = Column(Boolean, default=True)
+
+    def __repr__(self):
+        return f"<Contact(id={self.id}, name='{self.name}', email='{self.email}', phone='{self.phone}')>"
